@@ -1,1 +1,5 @@
-{"name":"The King","description":"Any man who must say “I am the king” is no true king","image":"https://nft.thefroggy.io/S1/1.png"}
+{
+    "name": "The King",
+    "description": "Any man who must say “I am the king” is no true king",
+    "image": "https://raw.githubusercontent.com/cryptosoots/froggy_nft_recover/main/cards/1.png"
+}
